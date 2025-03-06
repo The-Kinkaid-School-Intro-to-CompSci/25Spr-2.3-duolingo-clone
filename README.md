@@ -1,1 +1,2 @@
-# 25Spr-2.3-duolingo-clone
+# 2.3 Duolingo Clone
+A repository for a Duolingo clone project for the 25Spr course. 
